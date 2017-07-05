@@ -1,0 +1,16 @@
+{
+  "name": "Pico",
+  "description": "Pico-osu",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
